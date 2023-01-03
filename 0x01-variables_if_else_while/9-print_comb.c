@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 /**
- * main - main block
+ * main - main function
  * Description: prints all single number of base 10
  * sarting from 0, followed y a new line
  * Return: 0
